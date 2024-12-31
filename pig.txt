@@ -8,4 +8,4 @@ git commit9
 git add . (staging area)
 git commit -v
 git rm second.txt
-git status
+git status 
